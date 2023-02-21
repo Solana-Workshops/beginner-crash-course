@@ -4,7 +4,7 @@
 | Link | Instructor | Event |
 | ---- | ---------- | ----- |
 | [<img src="https://raw.githubusercontent.com/Solana-Workshops/.github/main/.docs/youtube-icon.png" alt="youtube" width="20" align="center"/> Recording](https://www.youtube.com/watch?v=FQYmWWw5l04) | Joe Caulfield | Encode Hackathon 2023 |
-| [<img src="https://raw.githubusercontent.com/Solana-Workshops/.github/main/.docs/youtube-icon.png" alt="youtube" width="20" align="center"/> Recording](https://www.youtube.com/playlist?list=PLfEHHr3qexv_FEcsuEEmiwSTKfahbYzVX) | Joe Caulfield | Encode Hackathon 2023 |
+| [<img src="https://raw.githubusercontent.com/Solana-Workshops/.github/main/.docs/youtube-icon.png" alt="youtube" width="20" align="center"/> Recording (Playlist Version)](https://www.youtube.com/playlist?list=PLfEHHr3qexv_FEcsuEEmiwSTKfahbYzVX) | Joe Caulfield | Encode Hackathon 2023 |
 
 ## 📗 Learn
 
