@@ -7,9 +7,10 @@
 | [<img src="https://raw.githubusercontent.com/Solana-Workshops/.github/main/.docs/youtube-icon.png" alt="youtube" width="20" align="center"/> Recording (Playlist Version)](https://www.youtube.com/playlist?list=PLfEHHr3qexv_FEcsuEEmiwSTKfahbYzVX) | Joe Caulfield | Encode Hackathon 2023 |
 
 ## ☄️ Open in Solana Playground IDE
+| Program | Link |
 | -------------------- | --------------------------------------- |
-| Hello World | [ ![program](https://ik.imagekit.io/mkpjlhtny/solpg_button_zWM8WlPKs.svg?ik-sdk-version=javascript-1.4.3&updatedAt=1662621556513)](  https://beta.solpg.io/github/https://github.com/Solana-Workshops/beginner-crash-course/tree/main/hello-world/program)
-| Hello World Again | [ ![program](https://ik.imagekit.io/mkpjlhtny/solpg_button_zWM8WlPKs.svg?ik-sdk-version=javascript-1.4.3&updatedAt=1662621556513)](  https://beta.solpg.io/github/https://github.com/Solana-Workshops/beginner-crash-course/tree/main/hello-world-again/program)
+| Hello World | [ ![program](https://ik.imagekit.io/mkpjlhtny/solpg_button_zWM8WlPKs.svg?ik-sdk-version=javascript-1.4.3&updatedAt=1662621556513)](  https://beta.solpg.io/github/https://github.com/Solana-Workshops/beginner-crash-course/tree/main/hello-world/program) |
+| Hello World Again | [ ![program](https://ik.imagekit.io/mkpjlhtny/solpg_button_zWM8WlPKs.svg?ik-sdk-version=javascript-1.4.3&updatedAt=1662621556513)](  https://beta.solpg.io/github/https://github.com/Solana-Workshops/beginner-crash-course/tree/main/hello-world-again/program) |
 
 ## 📗 Learn
 
